@@ -1,11 +1,10 @@
 
 <div align="center">
 <br />
-  
-<img src="./public/readme-images/sp-icon.jpeg" />
 <h2 align="center">Sivaprakash Murugan - Personal portfolio</h2>
+<br />
 
-A personal portfolio website showcasing my projects, skills, and experience. Built using Next.js and Tailwind.CSS to highlight my work and make it easy for others to connect with me.
+A personal portfolio website designed to showcase my projects, skills, and professional experience in a visually engaging and interactive way. Built using Next.js for performance and Tailwind CSS for a modern, responsive design, this portfolio highlights my expertise, technical abilities, and creative work. It serves as a central hub for potential employers, collaborators, and recruiters to explore my work, learn about my background, and easily connect with me.
 
 <a href="https://sivaprakash-myportfolio.vercel.app"><strong>➥ Live Demo</strong></a>
 
@@ -15,7 +14,7 @@ A personal portfolio website showcasing my projects, skills, and experience. Bui
 
 ### Demo Screeshots
 
-![Osama Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
+![Sivaprakash Portfolio Desktop Demo](./public/readme-images/portfolio.png "Sivaprakash Portfolio")
 
 
 ### Contact
