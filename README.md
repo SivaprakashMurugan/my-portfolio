@@ -1,0 +1,1 @@
+A personal portfolio website showcasing my projects, skills, and experience. Built using Next.js and Tailwind.CSS to highlight my work and make it easy for others to connect with me.
