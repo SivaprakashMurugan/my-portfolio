@@ -7,7 +7,6 @@ import { useQuery } from "react-query";
 import axios from "axios";
 import { Skeleton } from "antd";
 import ParagraphSkeleton from "../components/Common/ParagraphSkeleton";
-import download from "../public/images/download-removebg-preview.png";
 import Image from 'next/image';
 
 function Background() {
@@ -24,8 +23,7 @@ function Background() {
                     <div style={{ display: 'flex' }}>
 
                         <div className="mt-10 md:mt-0 text-xl text-Snow font-semibold">Education</div>
-                        {/* <Image className='w-7 h-7' src={download} alt='profile picture' /> */}
-                        <img className='w-9 h-9 mt-[-2px]' src="images/images-removebg-preview.png" alt="emoji" />
+                        <img className='w-9 h-9 mt-[-2px]' src="images/education.png" alt="emoji" />
                     </div>
 
                     {isLoading ?
@@ -44,7 +42,7 @@ function Background() {
 
                         <div style={{ display: 'flex' }}>
                             <div className=" md:pt-0 pt-4 text-xl text-Snow font-semibold">Experience</div>
-                            <img className='w-10 h-10 mt-[-7px]' src="images/download-removebg-preview3.png" alt="emoji" />
+                            <img className='w-10 h-10 mt-[-7px]' src="images/experience.png" alt="emoji" />
                         </div>
                         {isLoading ?
                             [1, 2, 3].map(() => (
