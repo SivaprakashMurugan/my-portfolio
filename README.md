@@ -1,6 +1,5 @@
 
 <div align="center">
-<br />
 <h2 align="center">Sivaprakash Murugan - Personal portfolio</h2>
 <br />
 
@@ -19,4 +18,4 @@ A personal portfolio website designed to showcase my projects, skills, and profe
 
 ### Contact
 
-If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/siva-prakash-03a12a157).
+If you'd like to get in touch, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/siva-prakash-03a12a157)
