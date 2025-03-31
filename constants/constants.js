@@ -53,5 +53,5 @@ export const CONTACTS = {
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/SivaprakashMurugan',
-  LINKEDIN: 'https://www.linkedin.com/in/siva-prakash-03a12a157'
+  LINKEDIN: 'https://www.linkedin.com/in/siva-prakash2507'
 };

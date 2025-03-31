@@ -18,4 +18,4 @@ A personal portfolio website designed to showcase my projects, skills, and profe
 
 ### Contact
 
-If you'd like to get in touch, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/siva-prakash-03a12a157)
+If you'd like to get in touch, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/siva-prakash2507)

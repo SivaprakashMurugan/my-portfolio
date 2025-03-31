@@ -38,7 +38,7 @@ const Contact = () => {
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Linkedin:</span>
-                                <span className='text-LightGray text-sm'>https://www.linkedin.com/in/siva-prakash-03a12a157</span>
+                                <span className='text-LightGray text-sm'>www.linkedin.com/in/siva-prakash2507</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Phone:</span>
@@ -50,7 +50,7 @@ const Contact = () => {
                 <div className="h-16 w-full card_stylings text-xl sm:text-3xl flex gap-x-8 sm:gap-x-16 items-center justify-center text-Snow">
                     {/* <a className='hover:scale-125 ease-in-out duration-700' href="" target='_blank' rel="noreferrer"><HiMail /></a> */}
                     <a className='hover:scale-125 ease-in-out duration-700' href="https://github.com/SivaprakashMurugan" target='_blank' rel="noreferrer"><FaGithub /></a>
-                    <a className='hover:scale-125 ease-in-out duration-700' href="https://www.linkedin.com/in/siva-prakash-03a12a157" target='_blank' rel="noreferrer"><FaLinkedin /></a>
+                    <a className='hover:scale-125 ease-in-out duration-700' href="https://www.linkedin.com/in/siva-prakash2507" target='_blank' rel="noreferrer"><FaLinkedin /></a>
                     {/* <a className='hover:scale-125 ease-in-out duration-700 hidden sm:block' href="https://www.fiverr.com/codeworthy" target='_blank' rel="noreferrer"><Fiverr_Icon /></a> */}
                     <a className='hover:scale-125 ease-in-out duration-700 text-2xl sm:text-4xl mt-1' href="#" target='_blank' rel="noreferrer"><SiUpwork /></a>
                 </div>

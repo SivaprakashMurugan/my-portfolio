@@ -23,7 +23,7 @@ function Background() {
                     <div style={{ display: 'flex' }}>
 
                         <div className="mt-10 md:mt-0 text-xl text-Snow font-semibold">Education</div>
-                        <img className='w-9 h-9 mt-[-2px]' src="images/education.png" alt="emoji" />
+                        {/* <img className='w-9 h-9 mt-[-2px]' src="images/education.png" alt="emoji" /> */}
                     </div>
 
                     {isLoading ?
@@ -42,7 +42,7 @@ function Background() {
 
                         <div style={{ display: 'flex' }}>
                             <div className=" md:pt-0 pt-4 text-xl text-Snow font-semibold">Experience</div>
-                            <img className='w-10 h-10 mt-[-7px]' src="images/experience.png" alt="emoji" />
+                            {/* <img className='w-10 h-10 mt-[-7px]' src="images/experience.png" alt="emoji" /> */}
                         </div>
                         {isLoading ?
                             [1, 2, 3].map(() => (

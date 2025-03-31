@@ -32,7 +32,7 @@ const Banner = () => {
                             </div>
                             {/* <Link to='intro' spy={true} smooth={true} duration={500} offset={-50} className="button">Explore</Link> */}
                             <a
-                                href="https://www.linkedin.com/in/siva-prakash-03a12a157"
+                                href="https://www.linkedin.com/in/siva-prakash2507"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="button"
